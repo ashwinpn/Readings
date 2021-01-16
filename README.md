@@ -6,17 +6,23 @@ List of books which I have read, planning to read, or reading again.
 - [] The Iliad, by Homer.
 ![](https://pictures.abebooks.com/isbn/9780064302999-us.jpg)
 
+
+
 - [] Crime and Punishment, Fyodor Dostoevsky.
 ![](https://en.wikipedia.org/wiki/Crime_and_Punishment#/media/File:Crimeandpunishmentcover.png)
+
 
 - Pride and Prejudice, Jane Austen.
 ![](https://prodimage.images-bn.com/pimages/9781499369748_p0_v3_s1200x630.jpg)
 
+
 - Der Tod in Venedig, Thomas Mann.
 ![](https://images-na.ssl-images-amazon.com/images/I/51j26STiXrL.jpg)
 
+
 - The Bell Jar, Sylvia Plath.
 ![](https://www.sawtoothbooks.com/pictures/medium/28222.jpg)
+
 
 - The Devotion of Suspect X, Kiego Higashino. 
 ![](https://images-na.ssl-images-amazon.com/images/I/5129MjsA6GL.jpg)
@@ -47,4 +53,3 @@ List of books which I have read, planning to read, or reading again.
 - The Trial, Franz Kafka.
 ![](https://images-na.ssl-images-amazon.com/images/I/71m9aZ80tZL.jpg)
 
-- 
