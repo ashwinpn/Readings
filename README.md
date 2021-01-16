@@ -3,13 +3,13 @@ List of books which I have read, planning to read, or reading again.
 
 # First Time Read - Scheduled
 
-- [] The Iliad, by Homer.
+- -[] The Iliad, by Homer.
 
 ![](https://pictures.abebooks.com/isbn/9780064302999-us.jpg)
 
 
 
-- [] Crime and Punishment, Fyodor Dostoevsky.
+- -[] Crime and Punishment, Fyodor Dostoevsky.
 
 ![](https://en.wikipedia.org/wiki/Crime_and_Punishment#/media/File:Crimeandpunishmentcover.png)
 
