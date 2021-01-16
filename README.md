@@ -3,15 +3,15 @@ List of books which I have read, planning to read, or reading again.
 
 # First Time Read - Scheduled
 
-- -[] The Iliad, by Homer.
+- - [ ] The Iliad, by Homer.
 
 ![](https://pictures.abebooks.com/isbn/9780064302999-us.jpg)
 
 
 
-- -[] Crime and Punishment, Fyodor Dostoevsky.
+- - [ ] Crime and Punishment, Fyodor Dostoevsky.
 
-![](https://en.wikipedia.org/wiki/Crime_and_Punishment#/media/File:Crimeandpunishmentcover.png)
+![](https://kbimages1-a.akamaihd.net/ac663997-9fc1-4c8d-90ed-16e04e3cc4d5/1200/1200/False/crime-and-punishment-13.jpg)
 
 
 - Pride and Prejudice, Jane Austen.
@@ -37,11 +37,11 @@ List of books which I have read, planning to read, or reading again.
 
 - Farheneit 451, Ray Bradbury.
 
-![](https://en.wikipedia.org/wiki/File:Fahrenheit_451_1st_ed_cover.jpg)
+![](https://prodimage.images-bn.com/pimages/9784871871143_p0_v1_s1200x630.jpg)
 
 - 1984, George Orwell.
 
-![](https://en.wikipedia.org/wiki/File:1984first.jpg)
+![](https://images.booksense.com/images/935/262/9780452262935.jpg)
 
 - Animal Farm, Geroge Orwell.
 
@@ -49,12 +49,12 @@ List of books which I have read, planning to read, or reading again.
 
 - Brave New World, Aldous Huxley.
 
-![](https://en.wikipedia.org/wiki/Brave_New_World#/media/File:BraveNewWorld_FirstEdition.jpg)
+![](https://www.hilobrow.com/wp-content/uploads/2013/10/huxley-brave.jpg)
 
 - The Catcher in the Rye, J. D. Salinger.
 
 
-![](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye#/media/File:The_Catcher_in_the_Rye_(1951,_first_edition_cover).jpg)
+![](https://www.pluggedin.com/wp-content/uploads/2020/01/catcher-in-the-rye-cover-image-682x1024.jpeg)
 
 - The Girl with the Dragon Tattoo, Stieg Larsson.
 
